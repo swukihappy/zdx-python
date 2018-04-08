@@ -13,3 +13,4 @@ def quadratic(a,b,c):
 print(quadratic(2,3,1))
 print(quadratic(1,3,-4))
 print(quadratic("aa",1,2))
+dir()

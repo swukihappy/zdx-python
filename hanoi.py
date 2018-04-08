@@ -7,4 +7,4 @@ def mov(n,a,b,c):
 		print("%c->%c" % (a,c))
 		mov(n-1,b,a,c)
 
-mov(4,'A','B','C')
+mov(3,'A','B','C')
