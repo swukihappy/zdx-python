@@ -1,5 +1,5 @@
 # zdx-python
-python自学
+zdxpython自学
 
 |文件名字|内容|备注|
 |----------|----|----|
