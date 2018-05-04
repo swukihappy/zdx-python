@@ -10,3 +10,5 @@ zdxpython自学
 |hanoi|汉诺塔问题|[查看](https://github.com/swukihappy/zdx-python/blob/master/hanoi.py)|
 |trim|trim函数实现|[查看](https://github.com/swukihappy/zdx-python/blob/master/trim.py)|
 |findMinAndMax|查找字符串中的最大和最小数字|[查看](https://github.com/swukihappy/zdx-python/blob/master/find_max_and_min.py)|
+|functools_parital|偏函数|[查看](https://github.com/swukihappy/zdx-python/blob/master/functools_partial.py)|
+|map_and_reduce|map and reduce|[查看](https://github.com/swukihappy/zdx-python/blob/master/mapAndReduce.py)|
