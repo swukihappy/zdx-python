@@ -6,13 +6,13 @@ def findMinAndMax(l):
 		str="只有一个元素哦"
 		return str
 	else:
-		for i in l:
-			if not isinstance(i,int):
-				str="非法字符"
-				return str
-			else:
-				max=i
-				min=i
+	
+		if not isinstance(l[0],int):
+			str="非法字符"
+			return str
+		else:
+			max=l[0]
+			min=l[0]
 		for i in l:
 			if not isinstance(i,int):
 				continue
