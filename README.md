@@ -12,3 +12,4 @@ zdxpython自学
 |findMinAndMax|查找字符串中的最大和最小数字|[查看](https://github.com/swukihappy/zdx-python/blob/master/find_max_and_min.py)|
 |functools_parital|偏函数|[查看](https://github.com/swukihappy/zdx-python/blob/master/functools_partial.py)|
 |map_and_reduce|map and reduce|[查看](https://github.com/swukihappy/zdx-python/blob/master/mapAndReduce.py)|
+|class|私有变量set & get |[查看](https://github.com/swukihappy/zdx-python/commit/afb3121e6973ddec842274094d9d7884e0af2106)|
