@@ -1,0 +1,34 @@
+# -*- coding:utf-8 -*-
+import math
+#值打印
+print(2*(3+4))
+print(2*3+4)
+print(2+3*4)
+#求一个数的平方根，或次方
+a=math.sqrt(9)
+b=3**2
+#3的4次方
+c=math.pow(3,4)
+#表达式结果类型
+d=1+2+3.0
+f=1+2+3
+print(d,f)
+#截断或舍去浮点数的小数部分
+#舍去小数部分
+print(int(2.333))
+print(math.trunc(2.333))
+#四舍五入，将2.338的第三位进行四舍五入操作
+print(round(2.338,2))
+#将整数转换为浮点数
+print(float(2))
+#将一个属显示为八进制，十六进制和二进制
+print(oct(17))
+print(hex(17))
+print(bin(17))
+#将一个八进制，十六进制或二进制的数转换为一个整数
+d=oct(17)
+e=hex(17)sss
+f=bin(17)
+print(int(d,8))
+print(int(e,16))
+print(int(f,2))
