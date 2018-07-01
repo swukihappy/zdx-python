@@ -13,4 +13,4 @@ zdxpython自学
 |functools_parital|偏函数|[查看](https://github.com/swukihappy/zdx-python/blob/master/functools_partial.py)|
 |map_and_reduce|map and reduce|[查看](https://github.com/swukihappy/zdx-python/blob/master/mapAndReduce.py)|
 |class|私有变量set & get |[查看](https://github.com/swukihappy/zdx-python/commit/afb3121e6973ddec842274094d9d7884e0af2106)|
-|lianxi1|练习第一章：平方根，八进制数转换，小数b点保留|[查看](https://github.com/swukihappy/zdx-python/commit/f8ff5014a9d8a19396659d1198cf1e483a6fe06f)|
+|lianxi1|练习第一章：平方根，八进制数转换，小数点保留|[查看](https://github.com/swukihappy/zdx-python/commit/f8ff5014a9d8a19396659d1198cf1e483a6fe06f)|
