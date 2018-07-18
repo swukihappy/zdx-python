@@ -15,3 +15,4 @@ zdxpython自学
 |class|私有变量set & get |[查看](https://github.com/swukihappy/zdx-python/commit/afb3121e6973ddec842274094d9d7884e0af2106)|
 |lianxi1|练习第一章：平方根，八进制数转换，小数点保留|[查看](https://github.com/swukihappy/zdx-python/commit/f8ff5014a9d8a19396659d1198cf1e483a6fe06f)|
 |pratice2|练习第二章：列表，字典，tuple|[查看](https://github.com/swukihappy/zdx-python/blob/master/pratice2.py)|
+|pratice3|list ，字典，条件语句|[查看](https://github.com/swukihappy/zdx-python/blob/master/pratice3.py)|
