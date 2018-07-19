@@ -14,6 +14,10 @@ for x in date:
 	l.append(my_dir)
 print(l)
 for i in l:
-	cur.executemany("insert into my_count(name,suma) value (%s,%s)",[[i["name"],i["count"]]])
+	#cur.executemany("insert into my_count(name,suma) value (%s,%s)",[[i["name"],i["count"]]])
+	pass
+
+cur.execute('update mybook set name= %s where name="zdx"',["yuki"])
+cur.execute("delete from mybook where name ='cgx'")
 con.commit()
-cur.close()
+con.close()
